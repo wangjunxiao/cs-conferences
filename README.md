@@ -4,4 +4,4 @@ SIGCOMM2023, September 10-14, https://conferences.sigcomm.org/sigcomm/2023/list-
 
 NSDI2024, April 16–18, 
 
-MobiCom2023, October 2-6, https://sigmobile.org/mobicom/2023/accepted.html
+MobiCom2023, October 2-6, 
